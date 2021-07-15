@@ -1,5 +1,5 @@
 //
-//  TagCloudView.swift
+//  TagCloudItemView.swift
 //  SwiftAlyzer
 //
 //  Copyright © 2021 ProfessionAlyzer UG. All rights reserved.
