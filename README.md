@@ -1,6 +1,6 @@
 # TagCloudView
 A playground to demonstrate how to implement a tag cloud for macOS in Swift.
-For more information see the article on medium.
+For more information see the article on medium: [Creating a Tag Cloud for macOS](https://heydavethedev.medium.com/creating-a-tag-cloud-for-macos-c39dcb6f595d)
 
 # Examples
 Here is the example of this playground:
